@@ -10,4 +10,8 @@
 
 - I had to understand how to follow the instructions in the lab. I had to read the instructions a few times to understand what I needed to do. I also had to get fimiliar with the AWS console and how to navigate it.
 
+## Image
+
+[image](https://titanaws.s3.us-west-2.amazonaws.com/japan.jpg)
+
 [LICENSE](./LICENSE)
